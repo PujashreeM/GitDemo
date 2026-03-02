@@ -14,4 +14,10 @@ public class RestApiTest {
         System.out.println("Post Jira6");
 
     }
+    @Test
+    public void deleteApp()
+    {
+        System.out.println("Post Jira7");
+        System.out.println("Post Jira8");
+    }
 }
